@@ -1,38 +1,93 @@
----
-layout: post
-title: #stayathome Mentorship
----
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>#stayathome mentorship</title>
     <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.min.css">
 </head>
 <body>
-	<h1>CodingNomads #stayathome #stayconnected Mentorship Program</h1>
-  <ul>
+    <section class="hero is-info is-bold">
+      <div class="hero-body">
+      <div class="columns">
+      <div class="column">
+        <figure class="image is-3by1">
+          <img class="" src="cn_logo.png">
+        </figure>
+      </div>
+      <div class="column">
+        <div class="container">
+          <h1 class="title is-1">CodingNomads Mentorship Program</h1>
+          <h2 class="subtitle is-3">#stayathome #stayconnected</h2>
+        </div>
+      </div>
+      </div>
+      </div>
+    </section>
+  <section class="section">
+    <div class="container">
+  <ul class="content">
     <li>✅ You know some coding</li>
     <li>✅ You got a bit of time to spare</li>
     <li>✅ You want to help people affected by COVID-19</li>
   </ul>
-  <p>Please enter your info and availability here and we will connect you with a learner.</p>
+  <p class="content">Please enter your info and availability here and we will connect you with a learner.</p>
   <form action="https://send.pageclip.co/1mAanPqdomEcI3zbN03rp7chzgXmvkxO" class="pageclip-form" method="post">
-    <input type="text" name="name" value="Awesome Mentor" />
-    <input type="email" name="email" value="your@email.com" />
-    <input type="textarea" name="info" value="Some notes on your background and why you're applying" />
-    <select name="students">
-      <option value="1" selected>1</option>
-      <option value="2">2</option>
-      <option value="3">3</option>
-      <option value="4">more...</option>
-    </select>
-    <input type="text" name="timezone" value="UTC" />
-    <button type="submit" class="pageclip-form__submit">
+
+    <div class="field">
+      <label class="label">Name</label>
+      <div class="control">
+        <input class="input" type="text" name="name" placeholder="Awesome Mentor" />
+      </div>
+      <p class="help">What can we call you?</p>
+    </div>
+
+    <div class="field">
+      <label class="label">Email</label>
+      <div class="control">
+        <input class="input" type="email" name="email" placeholder="your@email.com" />
+      </div>
+      <p class="help">Your email, for establishing contact</p>
+    </div>
+
+    <div class="field">
+      <label class="label">Info</label>
+      <div class="control">
+        <input class="input" type="textarea" name="info" placeholder="I wanna help!" />
+      </div>
+      <p class="help">Some notes on your background and why you're applying</p>
+    </div>
+
+    <div class="field">
+      <label class="label">Students</label>
+      <div class="control">
+        <div class="select">
+          <select name="students">
+            <option value="1" selected>1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">more...</option>
+          </select>
+        </div>
+      </div>
+      <p class="help">How many students can you mentor?</p>
+    </div>
+
+    <div class="field">
+      <label class="label">Timezone</label>
+      <div class="control">
+        <input class="input" type="text" name="timezone" placeholder="UTC" />
+      </div>
+      <p class="help">Your timezone helps us match you better with students</p>
+    </div>
+    
+    <button type="submit" class="pageclip-form__submit button is-info">
       <span>Send</span>
     </button>
   </form>
+  </div>
+  </section>
+
 <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
 </body>
 </html>
