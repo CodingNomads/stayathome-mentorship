@@ -122,7 +122,7 @@
             <div class="field">
                 <label class="label" for="name">Name</label>
                 <div class="control">
-                    <input class="input is-info" type="text" name="name" id="name" placeholder="Your Name"/>
+                    <input class="input is-info" type="text" name="name" id="name" placeholder="Your Name" required/>
                 </div>
                 <p class="help">What can we call you?</p>
             </div>
@@ -130,7 +130,7 @@
             <div class="field">
                 <label class="label" for="email">Email</label>
                 <div class="control">
-                    <input class="input is-info" type="email" name="email" id="email" placeholder="your@email.com"/>
+                    <input class="input is-info" type="email" name="email" id="email" placeholder="your@email.com" required/>
                 </div>
                 <p class="help">Your email, for establishing contact. We won't use your email for anything else.</p>
             </div>
@@ -140,7 +140,7 @@
                 <div class="field">
                     <div class="control">
                         <textarea class="textarea is-info" name="info" id="info"
-                                  placeholder="Worked as a waiter in the gig economy, but my restaurant closed down. I need to find a more stable way to earn income."></textarea>
+                                  placeholder="Worked as a waiter in the gig economy, but my restaurant closed down. I need to find a more stable way to earn income." required></textarea>
                     </div>
                 </div>
                 <p class="help">Some notes on your background and why you're applying</p>
@@ -150,7 +150,7 @@
                 <label for="timezone" class="label">Timezone</label>
                 <div class="control">
                     <div class="select is-info">
-                        <select name="timezone" id="timezone">
+                        <select name="timezone" id="timezone" required>
                             <option value="-12">UTC-12</option>
                             <option value="-11">UTC-11</option>
                             <option value="-10">UTC-10</option>
