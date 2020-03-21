@@ -8,97 +8,150 @@
     <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.min.css">
     <style>
-      body {
-        font-family: 'Source Sans Pro', sans-serif;
-      }
-      h1, h2 {
-        font-family: 'Barlow Condensed', sans-serif;
-      }
+        body {
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+
+        h1, h2 {
+            font-family: 'Barlow Condensed', sans-serif;
+        }
     </style>
 </head>
 <body>
-    <section class="hero is-info is-bold">
-      <div class="hero-body">
-      <div class="columns">
-      <div class="column is-three-quarters">
-        <div class="container">
-          <h1 class="title is-1">CodingNomads Mentorship Program</h1>
-          <h2 class="subtitle is-3">#stayathome #stayconnected</h2>
+<section class="hero is-info is-bold">
+    <div class="hero-body">
+        <div class="columns">
+            <div class="column is-three-quarters">
+                <div class="container">
+                    <h1 class="title is-1">CodingNomads Mentorship Program</h1>
+                    <h2 class="subtitle is-3">#stayathome #stayconnected</h2>
+                </div>
+            </div>
+            <div class="column">
+                <a href="https://codingnomads.co/" target="_blank">
+                    <figure class="image is-3by1">
+                        <img class="" src="cn_logo.png" alt="CodingNomads logo">
+                    </figure>
+                </a>
+            </div>
         </div>
-      </div>
-      <div class="column">
-      <a href="https://codingnomads.co/" target="_blank">
-        <figure class="image is-3by1">
-          <img class="" src="cn_logo.png">
-        </figure>
-      </a>
-      </div>
-      </div>
-      </div>
-    </section>
-  <section class="section">
+    </div>
+</section>
+<section class="section">
     <div class="container">
-  <ul class="content">
-    <li>✅ You know some coding</li>
-    <li>✅ You got a bit of time to spare</li>
-    <li>✅ You want to help people affected by COVID-19</li>
-  </ul>
-  <p class="content">Please enter your info and availability here and we will connect you with a learner.</p>
-  <form action="https://send.pageclip.co/1mAanPqdomEcI3zbN03rp7chzgXmvkxO" class="pageclip-form" method="post">
-
-    <div class="field">
-      <label class="label">Name</label>
-      <div class="control">
-        <input class="input" type="text" name="name" placeholder="Wanda Halp" />
-      </div>
-      <p class="help">What can we call you?</p>
-    </div>
-
-    <div class="field">
-      <label class="label">Email</label>
-      <div class="control">
-        <input class="input" type="email" name="email" placeholder="your@email.com" />
-      </div>
-      <p class="help">Your email, for establishing contact</p>
-    </div>
-
-    <div class="field">
-      <label class="label">Info</label>
-      <div class="control">
-        <input class="input" type="textarea" name="info" placeholder="I wanna help!" />
-      </div>
-      <p class="help">Some notes on your background and why you're applying</p>
-    </div>
-
-    <div class="field">
-      <label class="label">Students</label>
-      <div class="control">
-        <div class="select">
-          <select name="students">
-            <option value="1" selected>1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">more...</option>
-          </select>
+        <div class="columns">
+            <div class="column">
+                <ul class="content">
+                    <li>✅ You know some coding</li>
+                    <li>✅ You got a bit of time to spare</li>
+                    <li>✅ You want to help people affected by COVID-19</li>
+                </ul>
+                <p class="content">Please enter your info and availability here and we will connect you with a
+                    learner.</p>
+            </div>
+            <div class="column">
+                <div class="buttons is-right">
+                    <a href="index.html" class="button is-info is-medium">Apply As A Student</a>
+                </div>
+            </div>
         </div>
-      </div>
-      <p class="help">How many students can you mentor?</p>
-    </div>
 
-    <div class="field">
-      <label class="label">Timezone</label>
-      <div class="control">
-        <input class="input" type="text" name="timezone" placeholder="UTC" />
-      </div>
-      <p class="help">Your timezone helps us match you better with students</p>
+        <form action="https://send.pageclip.co/1mAanPqdomEcI3zbN03rp7chzgXmvkxO/student-applications"
+              class="pageclip-form" method="post">
+
+            <div class="field">
+                <label class="label" for="name">Name</label>
+                <div class="control">
+                    <input class="input is-info" type="text" name="name" id="name" placeholder="Wanda Halp"/>
+                </div>
+                <p class="help">What can we call you?</p>
+            </div>
+
+            <div class="field">
+                <label class="label" for="email">Email</label>
+                <div class="control">
+                    <input class="input is-info" type="email" name="email" id="email" placeholder="your@email.com"/>
+                </div>
+                <p class="help">Your email, for establishing contact</p>
+            </div>
+
+            <div class="field">
+                <label class="label" for="info">Info</label>
+                <div class="field">
+                    <div class="control">
+                        <textarea class="textarea is-info" name="info" id="info"
+                                  placeholder="Worked in IT for many years. I wanna help! Evenings work best."></textarea>
+                    </div>
+                </div>
+                <p class="help">Some notes on your background and why you're applying</p>
+            </div>
+
+            <div class="field">
+                <label class="label" for="students">Students</label>
+                <div class="control">
+                    <div class="select is-info">
+                        <select name="students" id="students">
+                            <option value="1" selected>1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="more">more...</option>
+                        </select>
+                    </div>
+                </div>
+                <p class="help">How many students can you mentor?</p>
+            </div>
+
+            <div class="field">
+                <label for="timezone" class="label">Timezone</label>
+                <div class="control">
+                    <div class="select is-info">
+                        <select name="timezone" id="timezone">
+                            <option value="-12">UTC-12</option>
+                            <option value="-11">UTC-11</option>
+                            <option value="-10">UTC-10</option>
+                            <option value="-9">UTC-9</option>
+                            <option value="-8">UTC-8</option>
+                            <option value="-7">UTC-7</option>
+                            <option value="-6">UTC-6</option>
+                            <option value="-5">UTC-5</option>
+                            <option value="-4">UTC-4</option>
+                            <option value="-3">UTC-3</option>
+                            <option value="-2">UTC-2</option>
+                            <option value="-1">UTC-1</option>
+                            <option value="0" selected>UTC</option>
+                            <option value="1">UTC+1</option>
+                            <option value="2">UTC+2</option>
+                            <option value="3">UTC+3</option>
+                            <option value="4">UTC+4</option>
+                            <option value="5">UTC+5</option>
+                            <option value="6">UTC+6</option>
+                            <option value="7">UTC+7</option>
+                            <option value="8">UTC+8</option>
+                            <option value="9">UTC+9</option>
+                            <option value="10">UTC+10</option>
+                            <option value="11">UTC+11</option>
+                            <option value="12">UTC+12</option>
+                        </select>
+                    </div>
+                </div>
+                <p class="help">Your timezone helps us match you better with students</p>
+            </div>
+
+            <button type="submit" class="pageclip-form__submit button is-info">
+                <span>Send</span>
+            </button>
+        </form>
     </div>
-    
-    <button type="submit" class="pageclip-form__submit button is-info">
-      <span>Send</span>
-    </button>
-  </form>
-  </div>
-  </section>
+</section>
+
+<footer class="footer">
+    <div class="content has-text-centered">
+        <p>
+            An initiative by <a class="is-link is-info" href="https://codingnomads.co/" target="_blank"><strong>CodingNomads</strong></a>,
+            March 2020.
+        </p>
+    </div>
+</footer>
 
 <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
 </body>
