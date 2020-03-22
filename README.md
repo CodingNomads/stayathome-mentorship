@@ -27,7 +27,7 @@ It is easier for us to set something up if we have some numbers to calculate wit
 
 ### Know Someone Who Might Want To Join As A Mentor?
 
-Please forward them this message, or send them this short message:
+Please forward them this whole message, or send them this short note:
 
 ---
 
@@ -35,7 +35,7 @@ Please forward them this message, or send them this short message:
 - ✅ You know some coding
 - ✅ You can spare 1 hour of your time per week
 
-[Apply here](https://codingnomads.github.io/stayathome-mentorship/index.html) to become a temporary pro-bono mentor and get paired with a learner who lost their job due to this pandemic. You can help them take their first steps towards a career in tech. We provide all the resources for free 💰❌, because this situation sucks and we want to try to help.
+[Apply here](https://codingnomads.github.io/stayathome-mentorship/index.html) to become a temporary pro-bono mentor and get paired with a learner who lost their job due to this pandemic. You can help them take their first steps towards a career in tech. We provide all the resources for free 💰❌, because this situation sucks and we want to try to help. [More info](https://github.com/CodingNomads/stayathome-mentorship/blob/master/README.md)
 
 ---
 
