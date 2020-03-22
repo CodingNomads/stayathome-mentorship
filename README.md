@@ -1,4 +1,4 @@
-# CodingNomads #stayathome Mentorship Program
+# CodingNomads [#stayathome](https://twitter.com/search?q=%23stayathome) Mentorship Program
 
 No commute due to COVID-19 🚗❌? Use the time you won to help people that have been negatively affected by the lock-downs get started learning tech skills.
 
@@ -17,9 +17,9 @@ No commute due to COVID-19 🚗❌? Use the time you won to help people that hav
 
 ---
 
-**Note**: This is a **pro-bono effort** on all fronts. We don't charge learners to make this connection and make our learning materials available for free for qualifying students. We will _only_ pair you with students that are in economic troubles due to COVID-19.
+**Note**: This is a **pro-bono effort** on all fronts. We don't charge learners to make this connection and we make our learning materials available for free for qualifying students. We will only pair you with students that are in economic troubles due to COVID-19.
 
 If you find out that you enjoy mentoring and want to make this a source of income,
 please reach out to CodingNomads after this situation has calmed down. We're always looking for skilled and dedicated mentors to help learners break into tech.
 
-Stay safe and healthy and help to #flattenthecurve!
+Stay safe and healthy and help to [#flattenthecurve](https://twitter.com/search?q=%23flattenthecurve)!
