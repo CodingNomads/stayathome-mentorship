@@ -27,9 +27,9 @@ If you know someone who could benefit from this program, please forward them thi
 
 ---
 
-😕 You lost your job due to COVID-19
-🏠 You want to self-isolate to #flattenthecurve
-🤖 You want to learn programming to future-proof your skills
+- 😕 You lost your job due to COVID-19
+- 🏠 You want to self-isolate to #flattenthecurve
+- 🤖 You want to learn programming to future-proof your skills
 
 [Apply here](https://codingnomads.github.io/stayathome-mentorship/students.html) for access to learning materials and getting paired with a pro-bono mentor. All for free 💰❌, because this situation sucks and we want to try to help.
 
