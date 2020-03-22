@@ -7,6 +7,8 @@ No commute due to COVID-19 🚗❌? Use the time you won to help people that hav
 - ✅ **Buddy**: Help them stay accountable and debug roadblocks
 - ✅ **Resume**: Boost your CV by adding "Mentorship" to your resume
 
+[Sign Up Here](https://codingnomads.github.io/stayathome-mentorship/index.html) to get started helping out.
+
 ### To facilitate this exchange, CodingNomads provides you with:
 
 - ✅ **Connection**: Contact to people in need that want to learn programming
@@ -18,6 +20,20 @@ No commute due to COVID-19 🚗❌? Use the time you won to help people that hav
 ---
 
 **Note**: This is a **pro-bono effort** on all fronts. We don't charge learners to make this connection and we make our learning materials available for free for qualifying students. We will only pair you with students that are in economic troubles due to COVID-19.
+
+### Know Someone Who Needs This?
+
+If you know someone who could benefit from this program, please forward them this message:
+
+---
+
+😕 You lost your job due to COVID-19
+🏠 You want to self-isolate to #flattenthecurve
+🤖 You want to learn programming to future-proof your skills
+
+[Apply here](https://codingnomads.github.io/stayathome-mentorship/students.html) for access to learning materials and getting paired with a pro-bono mentor. All for free 💰❌, because this situation sucks and we want to try to help.
+
+---
 
 If you find out that you enjoy mentoring and want to make this a source of income,
 please reach out to CodingNomads after this situation has calmed down. We're always looking for skilled and dedicated mentors to help learners break into tech.
