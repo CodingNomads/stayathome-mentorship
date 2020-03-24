@@ -1,11 +1,11 @@
 # CodingNomads [#stayathome](https://twitter.com/search?q=%23stayathome) Mentorship Program
 
-No commute due to COVID-19 🚗❌? Use your extra time to help people that have lost their jobs due to the COVID-19 lock-downs to get started learning tech skills:
+Want to help people during COVID-19? Share your skills with those who became unemployed due to global lock-downs. Become a volunteer mentor with CodingNomads’ #StayAtHome Mentorship Program:
 
 - ✅ **1 hour**: Spend 1 hour per student per week and help them make a positive step ahead
-- ✅ **Mentor**: Guide learners through a ready-made curriculum for Python or Java
-- ✅ **Buddy**: Help them stay accountable and debug roadblocks
-- ✅ **Resume**: Boost your CV by adding "Mentorship" to your resume
+- ✅ **Mentor**: Guide learners through a ready-made curriculum for Python or Java. For other subjects, provide free resources of your choosing
+- ✅ **Buddy**: Help learners stay accountable, work through roadblocks, and have a companion in this time of need
+- ✅ **Resume**: Boost your CV by adding meaningful volunteer mentorship experience
 
 [Sign Up Here](https://codingnomads.github.io/stayathome-mentorship/index.html) to get started helping out.
 
@@ -19,11 +19,11 @@ No commute due to COVID-19 🚗❌? Use your extra time to help people that have
 
 ### Info
 
-This is a **pro-bono effort** on all fronts. We don't charge anyone to make this connection and we will provide our learning materials available for free for qualifying students. We will only pair you with students that are in economic troubles due to COVID-19.
+CodingNomads’ #StayAtHome Mentorship Program is a **pro-bono effort** to help everyone make the best use of their time at home, and emerge from this crisis stronger, better educated, and more united. 
 
-There is absolutely no contractual obligation that you commit to when indicating that you want to help out. We just want to try to create an opportunity for people that are currently in a unfortunate situation. We understand that your situation can change as well and that you won't be able to continue mentoring someone.
+We don't charge anyone to make the connection between students and volunteer mentors, and we will provide our available learning materials for free for qualifying students. We will only pair you with students that are in economic troubles due to COVID-19.
 
-It is easier for us to set something up if we have some numbers to calculate with. Therefore, please indicate how long you think you will be able to help, and for how many students. It's all in [the form](https://codingnomads.github.io/stayathome-mentorship/index.html). Thank you!
+There is absolutely no contractual obligation for becoming a volunteer mentor. However for the students’ sake we are asking that you commit to at least 4 weeks of mentorship, 1 meeting per week - a total of only 4 hours of your time! We understand that your situation can change, but for the time being please indicate how long you think you will be able to help, and for how many students. It's all in [the form](https://codingnomads.github.io/stayathome-mentorship/index.html). Thank you!
 
 ### Know Someone Who Might Want To Join As A Mentor?
 
