@@ -31,25 +31,26 @@ Please forward them this whole message, or send them this short note:
 
 ---
 
-- ✅ You want to help people affected by COVID-19
-- ✅ You know some coding
-- ✅ You can spare 1 hour of your time per week
+Want to help people during COVID-19? Share your skills as a volunteer mentor with a student who lost their job due to the global lock-downs:
 
-[Apply here](https://codingnomads.github.io/stayathome-mentorship/index.html) to become a temporary pro-bono mentor and get paired with a learner who lost their job due to this pandemic. You can help them take their first steps towards a career in tech. We provide all the resources for free 💰❌, because this situation sucks and we want to try to help. [More info](https://github.com/CodingNomads/stayathome-mentorship/blob/master/README.md)
+- ✅ Spend 1 hour / week mentoring a student
+- ✅ Teach the skills you excel at to help others advance their careers
+- ✅ Offer companionship and support in this time of need
 
----
-
-### Know Someone Who Needs This?
-
-If you know someone who could benefit from this program, please forward them the following message:
+[Apply here](https://codingnomads.github.io/stayathome-mentorship/index.html) to become a temporary volunteer mentor with CodingNomads’ #StayAtHome Mentorship Program. Get paired with a student who wants to learn your skills, and help them take steps towards a new career. 
+This is an entirely free service, and an opportunity for all of us to make the best use of our time and resources to help our global community. [More info](https://github.com/CodingNomads/stayathome-mentorship/blob/master/README.md)
 
 ---
 
-- 😕 You lost your job due to COVID-19
-- 🏠 You want to self-isolate to #flattenthecurve
-- 🤖 You want to learn programming to future-proof your skills
+### Know Someone Who Needs to Learn New Skills?
 
-[Apply here](https://codingnomads.github.io/stayathome-mentorship/students.html) for access to free learning materials, our community slack and forum, and for getting paired with a pro-bono mentor. All for free 💰❌, because this situation sucks and we want to try to help.
+Please forward them the following message:
+
+---
+
+Did you lose your job because of COVID-19 😷, and want to learn new skills to future-proof your career 📚? 
+
+[Apply here](https://codingnomads.github.io/stayathome-mentorship/students.html) for CodingNomads’ #StayAtHome Mentorship Program, where you can get access to free learning materials, our community Slack and forum, and get paired with a pro-bono mentor - subject to availability. Let’s all make the best use of our time at home while we #flattenthecurve!
 
 ---
 
