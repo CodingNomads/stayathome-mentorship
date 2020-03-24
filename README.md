@@ -48,7 +48,7 @@ Please forward them the following message:
 
 ---
 
-Did you lose your job because of COVID-19 😷, and want to learn new skills to future-proof your career 📚? 
+Did you lose your job because of COVID-19 😷😞, and want to learn new skills to future-proof your career 📚? 
 
 [Apply here](https://codingnomads.github.io/stayathome-mentorship/students.html) for CodingNomads’ #StayAtHome Mentorship Program, where you can get access to free learning materials, our community Slack and forum, and get paired with a pro-bono mentor - subject to availability. Let’s all make the best use of our time at home while we #flattenthecurve!
 
