@@ -50,8 +50,16 @@
             <div class="message-body">
             
                 <p class="content">
-                    <strong>About the Program:</strong> CodingNomads #StayAtHome Mentorship Program is a free service 
-                    that pairs people who lost their jobs due to COVID-19 with volunteer mentors to learn new skills.</p>
+                    <strong>About the Program:</strong> <a href="https://codingnomads.co/learn" target="_blank" class="is-link">CodingNomads</a> 
+                    #StayAtHome Mentorship Program is a free service 
+                    that pairs people who lost their jobs due to COVID-19 with volunteer mentors to learn new skills.
+                    This is an experimental program, and we are in the preliminary phase of testing it's efficacy. 
+                    The goal of this program is to leverage our network and community to summon of group of mentors 
+                    with skills they'd like to share. </p>
+
+                <p class="content">
+                    <strong>Who is eligible for this program:</strong> You qualify for this program if you have lost work,
+                    been laid off, or fired due to the Covid-19 pandemic.</p>
 
                 <p class="content">
                     <strong>Economic Instability:</strong> Millions of people worldwide are facing dire straits due to workplaces 
@@ -61,14 +69,15 @@
                     necessary income, while many others are now unemployed due to lock-downs.</p>
 
                 <p class="content">
-                    <strong>Learn To Program For Free:</strong> Increasing your technical skills will not solve the
-                    economic and societal problems we
-                    are currently
-                    facing, but it can help to put yourself in a more stable position. Tech jobs are still some of the
-                    best paid and high in-demand positions in many places around the world, and they can give
-                    you the opportunity to work remotely. Being able to continue creating value and getting paid even
-                    during a situation like the current COVID-19 lock-downs is a privilege that we would like
-                    to share with affected workers.</p>
+                    <strong>Learn To Program For Free:</strong>
+                    If you <strong>lost your job</strong> due to the effects of this pandemic and are <strong>staying
+                    at home in self-isolation</strong>
+                    and you are considering a <strong>career transition into tech</strong>, apply here for free
+                    access to our course
+                    curriculum to learn Python, one of the most in-demand and easiest to learn programming
+                    languages, or Java, one of the most widely used programming languages in many industries. In addition,
+                    we're also building a community of experienced mentors with a wide variety of skills across the software development
+                    spectrum. So please let us know below what you'd like to learn and we'll do our best to find the right mentor for you!</p>
 
             </div>
         </article>
@@ -77,12 +86,13 @@
             <div class="column">
                 <article class="message is-info">
                     <div class="message-body">
-                        If you <strong>lost your job</strong> due to the effects of this pandemic and are <strong>staying
-                        at home in self-isolation</strong>
-                        and you are considering a <strong>career transition into tech</strong>, apply here for free
-                        access to our course
-                        curriculum to learn Python, one of the most in-demand and easiest to learn programming
-                        languages, or Java, one of the most widely used programming languages in many industries.
+                        Increasing your technical skills will not solve the
+                        economic and societal problems we
+                        are currently facing, but it can help to put yourself in a more stable position. Tech jobs are still some of the
+                        best paid and high in-demand positions in many places around the world, and they can give
+                        you the opportunity to work remotely. Being able to continue creating value and getting paid even
+                        during a situation like the current COVID-19 lock-downs is a privilege that we would like
+                        to share with affected workers.
                     </div>
                 </article>
             </div>
@@ -94,11 +104,11 @@
                         to pair you with a pro-bono mentor to keep you accountable and check in with you while you study
                         this new skill. Please keep in mind that mentors will give their free time to you, and we can't 
                         promise to keep this going, since it depends on the availability of individual people. But we'll do our best!
+                        Please keep in mind that this is an experimental pro bono program :)
                     </div>
                 </article>
             </div>
         </div>
-
 
         <div class="columns">
             <div class="column">
@@ -151,7 +161,19 @@
             </div>
 
             <div class="field">
-                <p class="label">Interests</p>
+                <p class="label">Did you recently lose your job due to the Covid-19 Pandemic?</p>
+                <div>
+                    <input type="checkbox" name="lost_job[yes]" id="lost-job-yes"/>
+                    <label htmlFor="lost-job-yes">Yes</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="lost_job[no]" id="lost-job-no"/>
+                    <label htmlFor="lost-job-no">No</label>
+                </div>
+            </div>
+
+            <div class="field">
+                <p class="label">What topics do you want to learn about?</p>
                 <div>
                     <input type="checkbox" name="tech[backend]" id="back-end"/>
                     <label htmlFor="back-end">Back-End</label>
@@ -177,11 +199,11 @@
                     <label htmlFor="other">Other</label>
                 </div>
 
-                <p class="help">What topics do you want to learn about?</p>
+                <!-- <p class="help">What topics do you want to learn about?</p> -->
             </div>
 
             <div class="field">
-                <label for="timezone" class="label">Timezone</label>
+                <label for="timezone" class="label">What is your timezone</label>
                 <div class="control">
                     <div class="select is-info">
                         <select name="timezone" id="timezone" required>
@@ -229,6 +251,9 @@
             An initiative by <a class="is-link is-info" href="https://codingnomads.co/" target="_blank"><strong>CodingNomads</strong></a>,
             March 2020 // Stay up-to-date about <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" class="is-link is-success" target="_blank">COVID-19</a>.
         </p>
+        <span class="icon">
+            <a href="https://codingnomads.co/blog" target="_blank"><i class="fas fa-blog"></i></a>
+        </span>
         <span class="icon">
             <a href="https://www.linkedin.com/school/codingnomads/" target="_blank"><i class="fas fa-graduation-cap"></i></a>
         </span>
