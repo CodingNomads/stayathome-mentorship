@@ -122,7 +122,48 @@
                                   placeholder="Worked in IT for many years. I wanna help! Evenings work best." required></textarea>
                     </div>
                 </div>
-                <p class="help">Some notes on your background and why you're applying</p>
+                <p class="help">Some notes on your background and why you're applying.</p>
+            </div>
+
+            <div class="field">
+                <p class="label">Tech Stack</p>
+                <div>
+                    <input type="checkbox" name="tech[backend]" id="back-end"/>
+                    <label htmlFor="back-end">Back-End</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="tech[frontend]" id="front-end"/>
+                    <label htmlFor="front-end">Front-End</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="tech[networking]" id="networking"/>
+                    <label htmlFor="networking">IT/Networking</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="tech[databases]" id="databases"/>
+                    <label htmlFor="databases">Databases</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="tech[design]" id="design"/>
+                    <label htmlFor="design">Design</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="tech[other]" id="other"/>
+                    <label htmlFor="other">Other</label>
+                </div>
+
+                <p class="help">What topics do you feel comfortable mentoring a beginner about?</p>
+            </div>
+
+            <div class="field">
+                <label class="label" for="details">Details (optional)</label>
+                <div class="field">
+                    <div class="control">
+                        <textarea class="textarea is-success" name="details" id="details" rows="2"
+                                  placeholder="Comfortable teaching Python, HTML, CSS. Some JavaScript for beginners."></textarea>
+                    </div>
+                </div>
+                <p class="help">Give some more detail on the tech stack you're familiar with.</p>
             </div>
 
             <div class="field">
@@ -188,7 +229,7 @@
                         </select>
                     </div>
                 </div>
-                <p class="help">Your timezone helps us match you better with students</p>
+                <p class="help">Your timezone helps us match you better with students.</p>
             </div>
 
             <button type="submit" class="pageclip-form__submit button is-success is-large">
