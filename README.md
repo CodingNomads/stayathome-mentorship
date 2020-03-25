@@ -14,7 +14,7 @@ Want to help people during COVID-19? Share your skills with those who became une
 - ✅ **Connection**: Contact to people in need that want to learn programming
 - ✅ **Learning Platform**: Access to courses on [our learning platform](https://platform.codingnomads.co/learn/)
 - ✅ **Curriculum**: A ready-made curriculum for Python or Java with documentation, videos, quizzes, and labs
-- ✅ **Slack & Forum**: A Slack channel and a [Discourse forum](http://forum.codingnomads.co/) where you can connect with your mentees
+- ✅ **Forum**: Access to our [Discourse forum](http://forum.codingnomads.co/) where you can connect with your mentees
 - ✅ **Mentorship Docs**: [Extensive Mentorship docs](https://codingnomads.github.io/mentor-docs/04_how_to_mentor/) to help you hone your mentorship skills 
 
 ### Info
@@ -50,7 +50,7 @@ Please forward them the following message:
 
 Did you lose your job because of COVID-19 😷😞, and want to learn new skills to future-proof your career 📚? 
 
-[Apply here](https://codingnomads.github.io/stayathome-mentorship/students.html) for CodingNomads’ #StayAtHome Mentorship Program, where you can get access to free learning materials, our community Slack and forum, and get paired with a pro-bono mentor - subject to availability. Let’s all make the best use of our time at home while we #flattenthecurve!
+[Apply here](https://codingnomads.github.io/stayathome-mentorship/students.html) for CodingNomads’ #StayAtHome Mentorship Program, where you can get access to free learning materials, our community forum, and get paired with a pro-bono mentor - subject to availability. Let’s all make the best use of our time at home while we #flattenthecurve!
 
 ---
 
