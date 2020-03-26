@@ -134,8 +134,8 @@
 
         <h2 class="title is-2" id="form-heading">Start Learning With A Mentor For Free</h2>
         <p class="content">Please enter your info and availability here and we'll follow up with you shortly.</p>
-        <form action="https://send.pageclip.co/1mAanPqdomEcI3zbN03rp7chzgXmvkxO/student-applications" class="pageclip-form" method="post">
-        <!-- <form action="https://stayathome-mentorship.herokuapp.com/add-student/" class="pageclip-form" method="post"> -->
+        <!-- <form action="https://send.pageclip.co/1mAanPqdomEcI3zbN03rp7chzgXmvkxO/student-applications" class="pageclip-form" method="post"> -->
+        <form action="http://127.0.0.1:8000/add-student/" class="pageclip-form" method="post">
 
             <div class="field">
                 <label class="label" for="name">Name</label>
@@ -167,43 +167,39 @@
             <div class="field">
                 <p class="label">Have you lost work, been laid off, or been fired due to the COVID-19 pandemic?</p>
                 <div>
-                    <input type="checkbox" name="lost_job[yes]" id="lost-job-yes"/>
+                    <input type="checkbox" name="lost_job" id="lost-job-yes"/>
                     <label htmlFor="lost-job-yes">Yes</label>
-                </div>
-                <div>
-                    <input type="checkbox" name="lost_job[no]" id="lost-job-no"/>
-                    <label htmlFor="lost-job-no">No</label>
                 </div>
             </div>
 
             <div class="field">
                 <p class="label">What topics do you want to learn about?</p>
                 <div>
-                    <input type="checkbox" name="tech[backend]" id="back-end"/>
+                    <input type="checkbox" name="skills" value="https://stayathome-mentorship.herokuapp.com/skills/2/" id="back-end"/>
                     <label htmlFor="back-end">Back-End</label>
                 </div>
                 <div>
-                    <input type="checkbox" name="tech[frontend]" id="front-end"/>
+                    <input type="checkbox" name="skills" value="https://stayathome-mentorship.herokuapp.com/skills/3/" id="front-end"/>
                     <label htmlFor="front-end">Front-End</label>
                 </div>
                 <div>
-                    <input type="checkbox" name="tech[networking]" id="networking"/>
+                    <input type="checkbox" name="skills" value="https://stayathome-mentorship.herokuapp.com/skills/4/" id="networking"/>
                     <label htmlFor="networking">IT/Networking</label>
                 </div>
                 <div>
-                    <input type="checkbox" name="tech[databases]" id="databases"/>
+                    <input type="checkbox" name="skills" value="https://stayathome-mentorship.herokuapp.com/skills/5/" id="databases"/>
                     <label htmlFor="databases">Databases</label>
                 </div>
                 <div>
-                    <input type="checkbox" name="tech[dataanalysis]" id="dataanalysis"/>
+                    <input type="checkbox" name="skills" value="https://stayathome-mentorship.herokuapp.com/skills/6/" id="dataanalysis"/>
                     <label htmlFor="dataanalysis">Data Analysis/ML</label>
                 </div>
                 <div>
-                    <input type="checkbox" name="tech[design]" id="design"/>
+                    <input type="checkbox" name="skills" value="https://stayathome-mentorship.herokuapp.com/skills/7/" id="design"/>
                     <label htmlFor="design">Design</label>
                 </div>
                 <div>
-                    <input type="checkbox" name="tech[other]" id="other"/>
+                    <input type="checkbox" name="skills" value="https://stayathome-mentorship.herokuapp.com/skills/1/" id="other"/>
                     <label htmlFor="other">Other</label>
                 </div>
 
@@ -247,10 +243,10 @@
             </div>
 
             <div class="field">
-                <label for="available-time" class="label">Best time of day for mentor meetings</label>
+                <label for="daytime" class="label">Best time of day for mentor meetings</label>
                 <div class="control">
                     <div class="select is-info">
-                        <select name="available-time" id="available-time" required>
+                        <select name="daytime" id="daytime" required>
                             <option value="morning">Morning</option>
                             <option value="mid-day">Mid-day</option>
                             <option value="evening">Evening</option>
@@ -303,9 +299,7 @@
         <span class="icon">
             <a href="mailto:admin@codingnomads.co" target="_blank"><i class="fas fa-envelope"></i></a>
         </span>
-    </div>
-
-    
+    </div>    
 </footer>
 
 <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
