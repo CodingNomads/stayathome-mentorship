@@ -15,7 +15,7 @@ Want to help people during COVID-19? Share your skills with those who became une
 - ✅ **Learning Platform**: Access to courses on [our learning platform](https://platform.codingnomads.co/learn/)
 - ✅ **Curriculum**: A ready-made curriculum for Python or Java with documentation, videos, quizzes, and labs
 - ✅ **Forum**: Access to our [Discourse forum](http://forum.codingnomads.co/) where you can connect with your mentees
-- ✅ **Mentorship Docs**: [Extensive Mentorship docs](https://codingnomads.github.io/mentor-docs/04_how_to_mentor/) to help you hone your mentorship skills 
+- ✅ **Mentorship Docs**: [Extensive Mentorship docs](https://codingnomads.github.io/mentor-docs/) to help you hone your mentorship skills 
 
 ### Info
 
