@@ -38,7 +38,7 @@ Want to help people during COVID-19? Share your skills as a volunteer mentor wit
 - ✅ Offer companionship and support in this time of need
 
 [Apply here](https://codingnomads.github.io/stayathome-mentorship/index.html) to become a temporary volunteer mentor with CodingNomads’ #StayAtHome Mentorship Program. Get paired with a student who wants to learn your skills, and help them take steps towards a new career. 
-This is an entirely free service, and an opportunity for all of us to make the best use of our time and resources to help our global community. [More info](https://github.com/CodingNomads/stayathome-mentorship/blob/master/README.md)
+This is an entirely free service, and an opportunity to use our skills and resources to help people in need. [More info](https://github.com/CodingNomads/stayathome-mentorship/blob/master/README.md)
 
 ---
 
@@ -50,7 +50,7 @@ Please forward them the following message:
 
 Did you lose your job because of COVID-19 😷😞, and want to learn new skills to future-proof your career 📚? 
 
-[Apply here](https://codingnomads.github.io/stayathome-mentorship/students.html) for CodingNomads’ #StayAtHome Mentorship Program, where you can get access to free learning materials, our community forum, and get paired with a pro-bono mentor - subject to availability. Let’s all make the best use of our time at home while we #flattenthecurve!
+[Apply here](https://codingnomads.github.io/stayathome-mentorship/students.html) for CodingNomads’ #StayAtHome Mentorship Program. You can get access to free learning materials, our community forum, and we'll connect you with a pro-bono mentor - subject to availability. Keep learning and #flattenthecurve!
 
 ---
 
